@@ -1,0 +1,122 @@
+*{
+    list-style: none;
+    box-sizing: border-box;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.unwanted{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    color: white;
+
+}
+.left-links{
+    display: flex;
+    gap:20px;
+    margin: 0;
+}
+h2{
+    margin: 0;
+}
+li{
+    padding-top: 3px;
+}
+img{
+    height: 250px;
+    width:400px
+}
+.jar{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    padding-bottom: 20px;
+}
+.table{
+    padding: 30px;
+    color: white;
+}
+.btn{
+    padding: 10px;
+    padding-right: 20px;
+    background-color:#3882f6;
+    color: white;
+    border: 0;
+}
+.photo{
+    padding-right: 60px;
+}
+.header{
+    background-color:#1f2739 ;
+}
+.fix{
+    height: 250px;
+    width: 350px;
+}
+.middle{
+    padding: 30px;
+}
+.text{
+    padding: 30px;
+    font-size: 32px;
+    text-align: center;
+}
+.boxes{
+    display: flex;
+    justify-content: space-evenly;
+}
+.issue{
+    padding-right:40px ;
+    text-align: justify;
+}
+#as{
+    padding-left: 30px;
+}
+.quotes{
+    background-color:#E5E7EB;
+}
+.Colours{
+    color:#1f2937 ;
+    font-size: 24px;
+    font-style: light italic;
+    padding-left: 180px;
+}
+.owner{
+    color:#1f2937 ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 1100px;
+    padding-left: 130px;
+    
+}
+body{
+    margin: 0;
+}
+.footer-1{
+    background-color:#3882f6 ;
+    color: white;
+    display: flex;
+    padding-left: 500px ;
+}
+.signup-button{
+    margin-top: 30px;
+    margin-left:350px ;
+}
+.footer{
+    padding: 30px;
+    padding-left: 150px;
+    padding-right: 150px;
+
+}
+.btnn{
+    padding: 20px;
+    padding-left: 30px;
+    padding-right:30px ;
+   background-color: #3882f6;
+   color: white;
+   border-color: white;
+   border-style: solid;
+}
